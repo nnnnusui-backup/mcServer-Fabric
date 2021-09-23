@@ -9,7 +9,7 @@
 !.gitignore
 !server.properties
 !ops.json
-!usercache.json
+#!usercache.json
 !whitelist.json
 !banned-ips.json
 !banned-players.json
