@@ -3,7 +3,7 @@ firstCommitMessage='thisLaunch: first commit'
 autoCommitMessage='auto commit'
 finalCommitMessage='thisLaunch: final commit'
 mcrconPassword="mc"
-interval=3600
+interval="6h"
 
 jar=fabric-server-launch.jar
 memorySize=20G
@@ -14,13 +14,14 @@ function launch () {
 }
 function commit () {
   mcrcon -p "${mcrconPassword}" save-all
-  sleep 5
+  sleep 5s
   git add .
   git commit -m "$1"
   git push
 }
 function autoCommit () {
-#  sleep $interval
+  commit 'Commit at startup'
+  sleep $interval
   commit 'First commit with this launch'
   while true
   do
