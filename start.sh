@@ -20,6 +20,7 @@ function commit () {
   git push
 }
 function autoCommit () {
+  ls -1 mods > mods/mods.txt
   commit 'Commit at startup'
   sleep $interval
   commit 'First commit with this launch'

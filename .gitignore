@@ -5,6 +5,7 @@
 !start.sh
 !world/**
 !config/**
+!mods/mods.txt
 
 !.gitignore
 !server.properties
