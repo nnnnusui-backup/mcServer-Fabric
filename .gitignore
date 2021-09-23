@@ -1,0 +1,15 @@
+# whitelist .gitignore
+*
+!*/
+
+!start.sh
+!world/**
+!config/**
+
+!.gitignore
+!server.properties
+!ops.json
+!usercache.json
+!whitelist.json
+!banned-ips.json
+!banned-players.json
