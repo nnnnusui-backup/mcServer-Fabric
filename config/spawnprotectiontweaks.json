@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "alias": "spt",
   "defaultConfig": {
     "centre": {
@@ -10,5 +10,10 @@
     "radius": 0.0,
     "actionBar": true
   },
-  "dimensions": {}
+  "dimensions": {
+    "minecraft:overworld": {
+      "radius": 1.0,
+      "actionBar": true
+    }
+  }
 }
