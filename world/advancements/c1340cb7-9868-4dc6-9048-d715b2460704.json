@@ -979,6 +979,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:silverfish": "2021-10-09 18:38:48 +0000",
       "minecraft:zombie": "2021-09-25 09:20:43 +0000"
     },
     "done": false
