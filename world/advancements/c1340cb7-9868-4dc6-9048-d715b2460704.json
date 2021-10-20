@@ -221,6 +221,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2021-10-20 13:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-10-20 12:17:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-09-23 17:27:23 +0000"
@@ -385,6 +397,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2021-10-20 11:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2021-10-20 13:07:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-09-25 09:24:10 +0000"
@@ -396,6 +420,12 @@
       "has_stone": "2021-09-26 11:20:19 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2021-10-20 12:06:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -657,6 +687,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2021-10-20 13:07:42 +0000",
       "minecraft:silverfish": "2021-10-09 18:38:48 +0000",
       "minecraft:zombie": "2021-09-25 09:20:43 +0000"
     },
@@ -701,6 +732,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2021-09-26 11:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2021-10-20 11:59:26 +0000"
     },
     "done": true
   },
@@ -1314,6 +1351,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2021-10-20 12:06:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2021-09-25 09:06:03 +0000"
@@ -1365,6 +1408,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2021-09-25 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-10-20 11:59:26 +0000"
     },
     "done": true
   },
