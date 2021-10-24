@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2021-10-24 06:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-09-26 11:05:27 +0000"
@@ -480,6 +486,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2021-10-23 18:06:45 +0000",
+      "minecraft:sheep": "2021-10-24 07:05:50 +0000",
       "minecraft:goat": "2021-10-23 19:08:33 +0000",
       "minecraft:chicken": "2021-10-20 12:06:39 +0000"
     },
@@ -698,6 +705,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2021-09-23 17:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-10-24 06:39:31 +0000"
     },
     "done": true
   },
