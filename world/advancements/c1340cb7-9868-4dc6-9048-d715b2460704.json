@@ -351,6 +351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-10-26 08:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2021-09-25 09:19:47 +0000"
@@ -518,6 +524,7 @@
       "minecraft:pig": "2021-10-23 18:06:45 +0000",
       "minecraft:sheep": "2021-10-24 07:05:50 +0000",
       "minecraft:goat": "2021-10-23 19:08:33 +0000",
+      "minecraft:cow": "2021-10-26 08:05:18 +0000",
       "minecraft:chicken": "2021-10-20 12:06:39 +0000"
     },
     "done": false
@@ -543,6 +550,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2021-10-23 15:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2021-10-26 08:18:33 +0000"
     },
     "done": true
   },
@@ -1175,6 +1188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2021-10-26 07:41:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2021-10-23 15:28:36 +0000"
@@ -1445,6 +1464,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2021-10-26 08:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-09-25 08:16:03 +0000"
@@ -1472,6 +1497,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2021-09-25 08:10:57 +0000",
+      "minecraft:forest": "2021-10-26 08:02:01 +0000",
       "minecraft:dark_forest": "2021-09-23 17:28:17 +0000",
       "minecraft:river": "2021-09-25 08:16:39 +0000",
       "minecraft:wooded_mountains": "2021-09-25 08:11:11 +0000",
