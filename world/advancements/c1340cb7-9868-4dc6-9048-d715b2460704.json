@@ -848,6 +848,7 @@
       "minecraft:creeper": "2021-10-20 13:07:42 +0000",
       "minecraft:silverfish": "2021-10-09 18:38:48 +0000",
       "minecraft:zombie": "2021-09-25 09:20:43 +0000",
+      "minecraft:drowned": "2021-10-26 15:11:14 +0000",
       "minecraft:zombie_villager": "2021-10-25 17:13:29 +0000"
     },
     "done": false
@@ -1077,6 +1078,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2021-09-25 09:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2021-10-26 15:15:41 +0000"
     },
     "done": true
   },
@@ -1604,6 +1611,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-09-25 08:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-10-26 15:07:42 +0000"
     },
     "done": true
   },
