@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-10-27 17:04:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-09-25 09:24:10 +0000"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2021-10-27 17:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-09-23 17:27:23 +0000"
@@ -323,6 +335,7 @@
       "cooked_beef": "2021-09-23 17:32:13 +0000",
       "apple": "2021-10-23 18:00:08 +0000",
       "bread": "2021-10-23 11:16:15 +0000",
+      "cooked_chicken": "2021-10-27 18:57:38 +0000",
       "cooked_salmon": "2021-09-26 11:02:53 +0000"
     },
     "done": false
@@ -781,6 +794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2021-10-27 17:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2021-09-25 09:42:28 +0000"
@@ -856,6 +875,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-10-17 07:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-10-27 17:04:33 +0000"
     },
     "done": true
   },
@@ -988,6 +1013,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-09-25 08:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-10-27 19:43:37 +0000"
     },
     "done": true
   },
@@ -1150,6 +1181,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2021-09-23 17:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2021-10-27 17:06:10 +0000"
     },
     "done": true
   },
@@ -1505,6 +1542,7 @@
     "criteria": {
       "minecraft:mountains": "2021-09-25 08:10:57 +0000",
       "minecraft:forest": "2021-10-26 08:02:01 +0000",
+      "minecraft:desert": "2021-10-27 17:05:29 +0000",
       "minecraft:dark_forest": "2021-09-23 17:28:17 +0000",
       "minecraft:river": "2021-09-25 08:16:39 +0000",
       "minecraft:wooded_mountains": "2021-09-25 08:11:11 +0000",
@@ -1557,6 +1595,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2021-09-25 08:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2021-10-27 19:41:12 +0000"
     },
     "done": true
   },
@@ -1638,6 +1682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-10-27 19:43:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2021-10-23 17:59:26 +0000"
@@ -1715,6 +1765,12 @@
       "has_stone": "2021-09-26 11:20:19 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2021-10-27 17:04:33 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
