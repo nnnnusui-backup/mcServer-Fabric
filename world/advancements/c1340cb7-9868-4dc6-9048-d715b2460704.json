@@ -1179,6 +1179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2021-10-29 16:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-09-25 09:18:43 +0000"
@@ -1551,14 +1557,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2021-10-29 16:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2021-09-25 08:10:57 +0000",
       "minecraft:forest": "2021-10-26 08:02:01 +0000",
       "minecraft:desert": "2021-10-27 17:05:29 +0000",
+      "minecraft:birch_forest": "2021-10-29 16:41:31 +0000",
       "minecraft:dark_forest": "2021-09-23 17:28:17 +0000",
       "minecraft:river": "2021-09-25 08:16:39 +0000",
       "minecraft:wooded_mountains": "2021-09-25 08:11:11 +0000",
+      "minecraft:swamp": "2021-10-29 16:39:29 +0000",
       "minecraft:plains": "2021-09-23 17:26:14 +0000"
     },
     "done": false
