@@ -879,6 +879,7 @@
       "minecraft:spider": "2021-10-24 18:17:36 +0000",
       "minecraft:creeper": "2021-10-20 13:07:42 +0000",
       "minecraft:silverfish": "2021-10-09 18:38:48 +0000",
+      "minecraft:enderman": "2021-10-30 07:34:41 +0000",
       "minecraft:zombie": "2021-09-25 09:20:43 +0000",
       "minecraft:drowned": "2021-10-26 15:11:14 +0000",
       "minecraft:zombie_villager": "2021-10-25 17:13:29 +0000"
@@ -1014,6 +1015,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2021-10-17 07:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2021-10-30 07:17:08 +0000"
     },
     "done": true
   },
@@ -1772,6 +1779,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-09-25 17:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2021-10-30 07:17:08 +0000"
     },
     "done": true
   },
