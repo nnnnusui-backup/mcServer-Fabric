@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-11-06 10:40:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-10-31 13:13:12 +0000"
@@ -1014,6 +1020,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2021-11-06 10:32:57 +0000",
       "minecraft:skeleton": "2021-10-23 11:15:30 +0000",
       "minecraft:spider": "2021-10-24 18:17:36 +0000",
       "minecraft:creeper": "2021-10-20 13:07:42 +0000",
