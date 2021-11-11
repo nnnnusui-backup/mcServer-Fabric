@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2021-11-11 13:01:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2021-10-31 10:02:31 +0000"
@@ -314,6 +320,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-09-25 09:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2021-11-11 13:01:16 +0000"
     },
     "done": true
   },
@@ -533,6 +545,8 @@
       "minecraft:skeleton": "2021-10-23 11:15:30 +0000",
       "minecraft:spider": "2021-10-24 18:17:36 +0000",
       "minecraft:creeper": "2021-10-20 13:07:42 +0000",
+      "minecraft:slime": "2021-11-11 12:53:45 +0000",
+      "minecraft:husk": "2021-11-11 12:57:47 +0000",
       "minecraft:silverfish": "2021-10-09 18:38:48 +0000",
       "minecraft:enderman": "2021-10-30 07:34:41 +0000",
       "minecraft:zombie": "2021-09-25 09:20:43 +0000",
@@ -643,6 +657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2021-11-11 14:34:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-10-23 17:59:26 +0000"
@@ -739,6 +759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-11-11 12:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2021-09-23 17:31:28 +0000"
@@ -760,6 +786,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2021-09-23 17:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2021-11-11 13:15:42 +0000"
     },
     "done": true
   },
@@ -790,6 +822,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-10-23 17:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2021-11-11 14:19:07 +0000"
     },
     "done": true
   },
@@ -1021,6 +1059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-11-11 12:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-09-25 08:16:03 +0000"
@@ -1044,6 +1088,7 @@
       "minecraft:mountains": "2021-09-25 08:10:57 +0000",
       "minecraft:forest": "2021-10-26 08:02:01 +0000",
       "minecraft:taiga": "2021-11-04 13:15:21 +0000",
+      "minecraft:desert_hills": "2021-11-11 12:58:51 +0000",
       "minecraft:giant_tree_taiga": "2021-11-10 12:37:32 +0000",
       "minecraft:taiga_hills": "2021-11-10 12:10:14 +0000",
       "minecraft:desert": "2021-10-27 17:05:29 +0000",
@@ -1055,6 +1100,7 @@
       "minecraft:wooded_hills": "2021-11-04 13:09:06 +0000",
       "minecraft:giant_tree_taiga_hills": "2021-11-10 12:36:44 +0000",
       "minecraft:swamp": "2021-10-29 16:39:29 +0000",
+      "minecraft:savanna": "2021-11-11 13:00:54 +0000",
       "minecraft:plains": "2021-09-23 17:26:14 +0000"
     },
     "done": false
@@ -1152,6 +1198,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2021-10-31 10:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-11-11 14:04:03 +0000"
     },
     "done": true
   },
@@ -1287,6 +1339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2021-11-11 14:32:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-11-10 11:56:29 +0000"
@@ -1326,6 +1384,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-10-27 17:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-11-11 12:57:05 +0000"
     },
     "done": true
   },
@@ -1511,6 +1575,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2021-11-11 13:50:27 +0000",
       "sweet_berries": "2021-09-23 17:31:52 +0000",
       "cooked_beef": "2021-09-23 17:32:13 +0000",
       "apple": "2021-10-23 18:00:08 +0000",
@@ -1709,6 +1774,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2021-10-31 07:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2021-11-11 13:01:24 +0000"
     },
     "done": true
   },
@@ -1976,6 +2047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-11-11 13:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-09-25 08:16:02 +0000"
@@ -2180,6 +2257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-11-11 12:53:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-09-25 08:17:22 +0000"
@@ -2219,6 +2302,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-10-31 10:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-11-11 13:15:42 +0000"
     },
     "done": true
   },
@@ -2279,6 +2368,18 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2021-10-31 07:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-11-11 13:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2021-11-11 14:04:29 +0000"
     },
     "done": true
   },
