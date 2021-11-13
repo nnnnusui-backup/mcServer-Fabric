@@ -573,6 +573,7 @@
       "minecraft:spider": "2021-10-24 18:17:36 +0000",
       "minecraft:creeper": "2021-10-20 13:07:42 +0000",
       "minecraft:slime": "2021-11-11 12:53:45 +0000",
+      "minecraft:phantom": "2021-11-12 21:01:37 +0000",
       "minecraft:zombified_piglin": "2021-11-12 18:33:35 +0000",
       "minecraft:wither_skeleton": "2021-11-12 17:52:04 +0000",
       "minecraft:husk": "2021-11-11 12:57:47 +0000",
@@ -1073,6 +1074,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2021-10-31 07:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2021-11-12 20:51:13 +0000"
     },
     "done": true
   },
@@ -1688,6 +1695,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-09-23 17:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2021-11-12 20:51:13 +0000"
     },
     "done": true
   },
@@ -2647,6 +2660,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2021-10-20 12:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-11-12 20:50:37 +0000"
     },
     "done": true
   },
