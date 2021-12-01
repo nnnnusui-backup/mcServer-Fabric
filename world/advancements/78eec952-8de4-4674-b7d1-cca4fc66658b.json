@@ -65,27 +65,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2021-11-26 19:50:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2021-11-26 19:50:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+  "minecraft:recipes/building_blocks/stone": {
     "criteria": {
-      "has_planks": "2021-11-26 19:50:47 +0000"
+      "has_cobblestone": "2021-11-26 19:50:35 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2021-11-26 19:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-11-26 19:50:47 +0000"
     },
     "done": true
   },
@@ -115,7 +115,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2021-11-26 19:52:06 +0000",
+      "minecraft:windswept_hills": "2021-11-26 19:52:06 +0000",
       "minecraft:dark_forest": "2021-09-25 08:58:23 +0000",
       "minecraft:plains": "2021-09-20 06:37:28 +0000"
     },
@@ -139,15 +139,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2021-11-26 19:49:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2021-11-26 19:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2021-11-26 19:49:51 +0000"
     },
     "done": true
   },
@@ -307,15 +307,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2021-11-26 19:50:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2021-11-26 19:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2021-11-26 19:50:28 +0000"
     },
     "done": true
   },
@@ -343,15 +343,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2021-11-26 19:50:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-11-26 19:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2021-11-26 19:50:47 +0000"
     },
     "done": true
   },
@@ -391,15 +391,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2021-11-26 19:50:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-11-26 19:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-11-26 19:50:47 +0000"
     },
     "done": true
   },
@@ -471,9 +471,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
+  "minecraft:recipes/combat/crossbow": {
     "criteria": {
-      "has_redstone": "2021-11-26 19:50:28 +0000"
+      "has_string": "2021-11-26 19:49:41 +0000"
     },
     "done": true
   },
@@ -483,9 +483,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
+  "minecraft:recipes/redstone/dropper": {
     "criteria": {
-      "has_string": "2021-11-26 19:49:41 +0000"
+      "has_redstone": "2021-11-26 19:50:28 +0000"
     },
     "done": true
   },
@@ -525,17 +525,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2021-09-25 10:18:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2021-09-25 10:18:34 +0000"
     },
     "done": true
   },
-  "DataVersion": 2730
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2021-09-25 10:18:34 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2860
 }
