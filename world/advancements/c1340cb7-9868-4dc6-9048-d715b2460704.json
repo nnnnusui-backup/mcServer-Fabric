@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2021-12-03 19:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-09-23 17:31:08 +0000"
@@ -158,6 +164,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2021-09-25 08:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2021-12-03 19:40:34 +0000"
     },
     "done": true
   },
@@ -224,6 +236,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_chiseled_sandstone": "2021-11-11 13:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2021-12-03 19:40:34 +0000"
     },
     "done": true
   },
@@ -639,6 +657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-12-03 19:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2021-09-25 16:54:19 +0000"
@@ -1047,6 +1071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-12-03 19:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2021-09-25 08:17:22 +0000"
@@ -1157,17 +1187,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2021-12-03 18:33:52 +0000",
       "minecraft:old_growth_pine_taiga": "2021-11-10 12:36:44 +0000",
       "minecraft:taiga": "2021-11-10 12:10:14 +0000",
       "minecraft:birch_forest": "2021-11-04 13:39:15 +0000",
       "minecraft:windswept_hills": "2021-09-25 08:10:57 +0000",
+      "minecraft:savanna_plateau": "2021-12-03 18:43:24 +0000",
+      "minecraft:beach": "2021-12-03 18:47:44 +0000",
       "minecraft:dark_forest": "2021-09-23 17:28:17 +0000",
       "minecraft:river": "2021-09-25 08:16:39 +0000",
+      "minecraft:lukewarm_ocean": "2021-12-03 18:51:47 +0000",
       "minecraft:swamp": "2021-10-29 16:39:29 +0000",
+      "minecraft:grove": "2021-12-03 18:35:56 +0000",
       "minecraft:forest": "2021-11-04 13:09:06 +0000",
       "minecraft:desert": "2021-10-27 17:05:29 +0000",
       "minecraft:windswept_forest": "2021-09-25 08:11:11 +0000",
       "minecraft:old_growth_birch_forest": "2021-12-02 15:50:37 +0000",
+      "minecraft:meadow": "2021-12-03 18:31:35 +0000",
+      "minecraft:windswept_gravelly_hills": "2021-12-03 18:56:26 +0000",
       "minecraft:savanna": "2021-11-11 13:00:54 +0000",
       "minecraft:plains": "2021-09-23 17:26:14 +0000"
     },
@@ -1649,6 +1686,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-12-03 19:56:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2021-10-27 17:07:08 +0000"
@@ -1915,6 +1958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2021-12-03 20:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2021-10-31 07:09:32 +0000"
@@ -2107,6 +2156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2021-12-03 19:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-10-27 17:04:33 +0000"
@@ -2146,6 +2201,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-11-10 11:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2021-12-03 19:40:34 +0000"
     },
     "done": true
   },
@@ -2545,6 +2606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-12-03 19:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2021-10-29 16:43:44 +0000"
@@ -2734,6 +2801,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2021-10-31 10:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2021-12-03 19:40:34 +0000"
     },
     "done": true
   },
