@@ -10,7 +10,7 @@ memorySize=20G
 GCTHREADS=4
 
 function launch () {
-  java -server -Xms${memorySize} -Xmx${memorySize} -XX:+DisableExplicitGC -XX:+UseCompressedOops -XX:+OptimizeStringConcat -XX:+UseTLAB -XX:ParallelGCThreads=${GCTHREADS} -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -jar ${jar} nogui
+  java -server -Xms${memorySize} -Xmx${memorySize} -XX:+DisableExplicitGC -XX:+UseCompressedOops -XX:+OptimizeStringConcat -XX:+UseTLAB -XX:ParallelGCThreads=${GCTHREADS} -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dlog4j2.formatMsgNoLookups=true -jar ${jar} nogui
 }
 function commit () {
   mcrcon -p "${mcrconPassword}" save-all
