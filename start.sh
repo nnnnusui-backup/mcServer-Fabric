@@ -5,7 +5,7 @@ finalCommitMessage='thisLaunch: final commit'
 mcrconPassword="mc"
 interval="6h"
 
-jar=fabric-server-launch.jar
+jar=server.jar
 memorySize=20G
 GCTHREADS=4
 
