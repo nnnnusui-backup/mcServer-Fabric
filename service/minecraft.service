@@ -1,0 +1,15 @@
+[Unit]
+Description=Minecraft Server
+After=network-online.target
+
+[Service]
+User=minecraft
+Group=minecraft
+Type=forking
+RestartSec=30s
+ExecStart=/home/minecraft/start.sh
+ExecStop=/home/minecraft/stop.sh 20
+
+[Install]
+WantedBy=multi-user.target
+

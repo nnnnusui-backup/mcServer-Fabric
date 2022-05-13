@@ -3,6 +3,7 @@
 !*/
 
 !start.sh
+!service/**
 !world/**
 !config/**
 !mods/mods.txt
