@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "uuid": "1ca0c0ba-ae8a-447d-91d6-c0b5b917ea64",
+    "name": "Azelyne",
+    "created": "2022-05-13 21:32:13 +0000",
+    "source": "nnnnusui",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "9abd3b4d-a8cd-4290-acc5-303c74da3e3f",
+    "name": "FermatSleep",
+    "created": "2022-05-13 21:34:35 +0000",
+    "source": "nnnnusui",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "4cff3c5b-b352-4e8a-a2df-5aa41b85dec7",
+    "name": "MiniFridge5000",
+    "created": "2022-05-13 21:33:46 +0000",
+    "source": "nnnnusui",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "ce0cb5fa-9597-4ee7-a0f8-12eeeace5981",
+    "name": "Dejmnok420",
+    "created": "2022-05-13 21:35:14 +0000",
+    "source": "nnnnusui",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

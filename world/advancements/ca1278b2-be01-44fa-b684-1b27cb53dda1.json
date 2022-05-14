@@ -1073,24 +1073,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2021-09-22 17:40:55 +0000",
-      "minecraft:mountains": "2021-09-19 14:38:50 +0000",
-      "minecraft:forest": "2021-09-21 02:45:53 +0000",
-      "minecraft:taiga": "2021-09-21 02:48:03 +0000",
-      "minecraft:desert_hills": "2021-09-21 03:52:19 +0000",
-      "minecraft:giant_tree_taiga": "2021-09-21 03:34:59 +0000",
-      "minecraft:deep_cold_ocean": "2021-09-22 17:41:17 +0000",
-      "minecraft:taiga_hills": "2021-09-21 03:34:53 +0000",
-      "minecraft:desert": "2021-09-21 03:51:31 +0000",
-      "minecraft:birch_forest": "2021-09-21 02:52:13 +0000",
+      "minecraft:old_growth_pine_taiga": "2021-09-21 03:34:59 +0000",
+      "minecraft:taiga": "2021-09-21 03:34:53 +0000",
+      "minecraft:birch_forest": "2021-09-21 02:53:01 +0000",
+      "minecraft:windswept_hills": "2021-09-19 14:38:50 +0000",
       "minecraft:beach": "2021-09-21 03:43:48 +0000",
       "minecraft:dark_forest": "2021-09-19 14:38:13 +0000",
       "minecraft:river": "2021-09-21 02:17:44 +0000",
-      "minecraft:birch_forest_hills": "2021-09-21 02:53:01 +0000",
-      "minecraft:wooded_mountains": "2021-09-21 02:41:27 +0000",
-      "minecraft:wooded_hills": "2021-09-21 02:58:43 +0000",
-      "minecraft:stone_shore": "2021-09-22 17:43:14 +0000",
+      "minecraft:stony_shore": "2021-09-22 17:43:14 +0000",
       "minecraft:swamp": "2021-09-21 02:57:52 +0000",
+      "minecraft:cold_ocean": "2021-09-22 17:40:55 +0000",
+      "minecraft:forest": "2021-09-21 02:58:43 +0000",
+      "minecraft:deep_cold_ocean": "2021-09-22 17:41:17 +0000",
+      "minecraft:desert": "2021-09-21 03:51:31 +0000",
+      "minecraft:windswept_forest": "2021-09-21 02:41:27 +0000",
       "minecraft:savanna": "2021-09-22 17:13:25 +0000",
       "minecraft:plains": "2021-09-19 14:38:04 +0000"
     },
@@ -2607,5 +2603,5 @@
     },
     "done": true
   },
-  "DataVersion": 2730
+  "DataVersion": 2975
 }
