@@ -27,6 +27,7 @@ sudo -u minecraft java -jar installer.jar server -mcversion $mcVer -downloadMine
 rm installer.jar
 mv server.jar vanilla.jar
 mv fabric-server-launch.jar server.jar
+sudo -u minecraft touch fabric-server-launcher.properties
 echo "serverJar=vanilla.jar" > fabric-server-launcher.properties
 
 rm /lib/systemd/system/minecraft.service
