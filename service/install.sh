@@ -8,22 +8,21 @@ apt install -y openjdk-17-jre-headless
 apt install -y make gcc
 
 adduser minecraft --gecos "" --disabled-password
-su minecraft
 cd /home/minecraft
 
 # install mcrcon
   git clone https://github.com/Tiiffi/mcrcon.git
-  cd mcrcon
-  make
-  sudo make install
+  make -C mcrcon
+  sudo make -C mcrcon install
 
-git clone git@github.com:nnnnusui-backup/mcServer-Fabric.git server
+cd /home/minecraft
+sudo -u minecraft git clone git@github.com:nnnnusui-backup/mcServer-Fabric.git server
 cd server
 git config --global user.name $gitUserName
 git config --global user.email $gitUserEmail
 
-wget -O installer.jar https://maven.fabricmc.net/net/fabricmc/fabric-installer/$fabricInstallerVer/fabric-installer-$fabricInstallerVer.jar
-java -jar installer.jar server -mcversion $mcVer -downloadMinecraft
+sudo -u minecraft wget -O installer.jar https://maven.fabricmc.net/net/fabricmc/fabric-installer/$fabricInstallerVer/fabric-installer-$fabricInstallerVer.jar
+sudo -u minecraft java -jar installer.jar server -mcversion $mcVer -downloadMinecraft
 rm installer.jar
 mv server.jar vanilla.jar
 mv fabric-server-launch.jar server.jar
