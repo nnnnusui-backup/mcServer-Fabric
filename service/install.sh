@@ -8,16 +8,17 @@ apt install -y openjdk-17-jre-headless
 apt install -y make gcc
 
 adduser minecraft --gecos "" --disabled-password
-cd /home/minecraft
+cd /tmp
 
 # install mcrcon
-  git clone https://github.com/Tiiffi/mcrcon.git
-  make -C mcrcon
-  sudo make -C mcrcon install
+  mcrconDir="/home/minecraft/mcrcon"
+  git clone https://github.com/Tiiffi/mcrcon.git $mcrconDir
+  make -C $mcrconDir
+  sudo make -C $mcrconDir install
 
-cd /home/minecraft
-sudo -u minecraft git clone git@github.com:nnnnusui-backup/mcServer-Fabric.git server
-cd server
+serverDir="/home/minecraft/server"
+sudo -u minecraft git clone git@github.com:nnnnusui-backup/mcServer-Fabric.git $serverDir
+cd $serverDir
 git config --global user.name $gitUserName
 git config --global user.email $gitUserEmail
 
