@@ -7,9 +7,8 @@ User=minecraft
 Group=minecraft
 Type=forking
 RestartSec=30s
-ExecStart=/home/minecraft/start.sh
-ExecStop=/home/minecraft/stop.sh 20
+ExecStart=/home/minecraft/server/service/start.sh
+ExecStop=/home/minecraft/server/service/stop.sh 20
 
 [Install]
 WantedBy=multi-user.target
-
