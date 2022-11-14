@@ -5,12 +5,13 @@ gitUserName="nnnnusui-backup"
 gitUserEmail="nnnnusui+backup@gmail.com"
 
 apt install -y openjdk-17-jre-headless
+apt install -y make gcc
 
 adduser minecraft --gecos "" --disabled-password
+su minecraft
 cd /home/minecraft
 
 # install mcrcon
-  apt install -y make gcc
   git clone https://github.com/Tiiffi/mcrcon.git
   cd mcrcon
   make
@@ -28,4 +29,5 @@ mv server.jar vanilla.jar
 mv fabric-server-launch.jar server.jar
 echo "serverJar=vanilla.jar" > fabric-server-launcher.properties
 
-ln -s /lib/systemd/system/minecraft.service /home/minecraft/server/service/minecraft.service
+rm /lib/systemd/system/minecraft.service
+ln -s /home/minecraft/server/service/minecraft.service /lib/systemd/system/minecraft.service
