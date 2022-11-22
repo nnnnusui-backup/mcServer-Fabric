@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-11-22 18:07:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2021-09-25 08:15:13 +0000"
@@ -2852,5 +2858,5 @@
     },
     "done": true
   },
-  "DataVersion": 2860
+  "DataVersion": 3120
 }

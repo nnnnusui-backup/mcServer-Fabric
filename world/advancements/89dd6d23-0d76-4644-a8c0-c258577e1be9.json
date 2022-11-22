@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2022-11-22 20:24:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-11-21 17:05:10 +0000"
@@ -326,6 +332,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2022-11-19 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2022-11-22 20:24:36 +0000"
     },
     "done": true
   },
@@ -431,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2022-11-22 20:28:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-11-19 20:05:10 +0000"
@@ -446,6 +464,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2022-11-19 21:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2022-11-22 20:01:07 +0000"
     },
     "done": true
   },
@@ -622,7 +646,8 @@
       "minecraft:cave_spider": "2022-11-20 19:30:00 +0000",
       "minecraft:piglin": "2022-11-21 17:26:14 +0000",
       "minecraft:enderman": "2022-11-21 18:20:51 +0000",
-      "minecraft:zombie": "2022-11-19 16:48:51 +0000"
+      "minecraft:zombie": "2022-11-19 16:48:51 +0000",
+      "minecraft:zombie_villager": "2022-11-22 20:34:46 +0000"
     },
     "done": false
   },
@@ -782,9 +807,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2022-11-22 20:06:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2022-11-19 17:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2022-11-22 20:09:07 +0000"
     },
     "done": true
   },
@@ -803,6 +840,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2022-11-19 18:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2022-11-22 20:24:41 +0000"
     },
     "done": true
   },
@@ -827,6 +870,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-11-20 15:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2022-11-22 20:40:35 +0000"
     },
     "done": true
   },
@@ -1118,6 +1167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2022-11-22 20:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2022-11-19 16:20:05 +0000"
@@ -1151,6 +1206,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-11-19 18:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2022-11-22 20:12:21 +0000"
     },
     "done": true
   },
@@ -1222,6 +1283,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2022-11-22 20:38:10 +0000",
       "minecraft:windswept_hills": "2022-11-19 15:05:25 +0000",
       "minecraft:beach": "2022-11-20 18:00:04 +0000",
       "minecraft:dark_forest": "2022-11-19 15:05:40 +0000",
@@ -1401,6 +1463,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-11-22 20:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2022-11-22 20:01:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2022-11-19 19:15:13 +0000"
@@ -1540,6 +1614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2022-11-22 20:01:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-11-20 15:03:01 +0000"
@@ -1600,9 +1680,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2022-11-22 20:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2022-11-19 16:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2022-11-22 20:01:07 +0000"
     },
     "done": true
   },
@@ -1696,6 +1788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2022-11-22 20:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2022-11-20 21:18:34 +0000"
@@ -1726,6 +1824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-11-22 20:09:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-11-19 18:39:19 +0000",
@@ -1739,6 +1843,12 @@
       "carrot": "2022-11-19 15:09:37 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2022-11-22 20:09:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -1833,6 +1943,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-11-19 20:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2022-11-22 20:09:09 +0000"
     },
     "done": true
   },
@@ -2082,6 +2198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2022-11-22 19:26:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2022-11-19 19:15:47 +0000"
@@ -2121,6 +2243,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2022-11-19 20:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2022-11-22 21:08:25 +0000"
     },
     "done": true
   },
@@ -2250,6 +2378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2022-11-22 20:09:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-11-19 16:27:28 +0000"
@@ -2316,6 +2450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2022-11-22 20:12:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-11-19 19:08:26 +0000"
@@ -2358,6 +2498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2022-11-22 20:06:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-11-20 15:03:01 +0000"
@@ -2373,6 +2519,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-11-19 22:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2022-11-22 20:24:50 +0000"
     },
     "done": true
   },
@@ -2622,6 +2774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2022-11-22 20:28:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2022-11-19 16:44:19 +0000"
@@ -2784,6 +2942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2022-11-22 20:24:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2022-11-19 19:08:26 +0000"
@@ -2799,6 +2963,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2022-11-21 20:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2022-11-22 20:01:07 +0000"
     },
     "done": true
   },

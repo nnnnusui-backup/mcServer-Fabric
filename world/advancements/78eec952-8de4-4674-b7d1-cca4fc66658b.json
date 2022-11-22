@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2022-11-22 19:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2022-11-19 22:02:07 +0000"
@@ -365,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-11-22 19:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-11-19 18:41:51 +0000"
@@ -410,6 +422,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2022-11-19 20:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-11-22 19:03:15 +0000"
     },
     "done": true
   },
@@ -639,6 +657,7 @@
       "minecraft:slime": "2022-11-19 19:26:49 +0000",
       "minecraft:cave_spider": "2022-11-20 19:30:22 +0000",
       "minecraft:piglin": "2022-11-21 17:24:12 +0000",
+      "minecraft:enderman": "2022-11-22 18:21:50 +0000",
       "minecraft:zombie": "2022-11-19 17:16:43 +0000"
     },
     "done": false
@@ -811,6 +830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2022-11-22 20:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2021-09-25 10:18:34 +0000"
@@ -946,6 +971,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2022-11-19 22:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2022-11-22 19:03:15 +0000"
     },
     "done": true
   },
@@ -1756,6 +1787,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2022-11-22 20:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-11-26 19:49:51 +0000"
@@ -1837,6 +1874,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-11-20 01:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2022-11-22 20:16:41 +0000"
     },
     "done": true
   },
@@ -2291,6 +2334,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2022-11-22 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2022-11-22 20:16:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2021-11-26 19:49:54 +0000"
@@ -2699,6 +2754,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-11-22 19:56:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2021-11-26 19:49:54 +0000"
@@ -2708,6 +2769,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-11-19 18:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2022-11-22 18:21:09 +0000"
     },
     "done": true
   },
