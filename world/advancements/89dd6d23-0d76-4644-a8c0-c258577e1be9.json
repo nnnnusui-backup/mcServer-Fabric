@@ -643,6 +643,7 @@
       "minecraft:spider": "2022-11-19 20:11:03 +0000",
       "minecraft:creeper": "2022-11-19 18:40:30 +0000",
       "minecraft:slime": "2022-11-19 21:54:49 +0000",
+      "minecraft:phantom": "2022-11-22 21:37:48 +0000",
       "minecraft:cave_spider": "2022-11-20 19:30:00 +0000",
       "minecraft:piglin": "2022-11-21 17:26:14 +0000",
       "minecraft:enderman": "2022-11-21 18:20:51 +0000",
@@ -1463,15 +1464,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2022-11-22 20:09:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2022-11-22 20:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-11-22 20:09:11 +0000"
     },
     "done": true
   },

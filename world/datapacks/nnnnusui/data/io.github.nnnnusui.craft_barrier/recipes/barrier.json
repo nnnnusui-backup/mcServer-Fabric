@@ -1,0 +1,14 @@
+{
+  "type":"crafting_shapeless",
+  "ingredients":[
+      [
+          {
+              "item":"minecraft:glass"
+          }
+      ]
+  ],
+  "result":{
+      "item":"minecraft:barrier",
+      "count":1
+  }
+}
