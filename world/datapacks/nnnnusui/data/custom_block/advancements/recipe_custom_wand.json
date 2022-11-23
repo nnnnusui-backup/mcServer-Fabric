@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "placeholder": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+          "recipe": "custom_block:custom_wand"
+      }
+    }
+  },
+  "rewards": {
+    "function": "custom_block:custom_wand/crafted"
+  }
+}

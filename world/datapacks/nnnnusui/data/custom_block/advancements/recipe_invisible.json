@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "placeholder": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+          "recipe": "custom_block:invisible"
+      }
+    }
+  },
+  "rewards": {
+    "function": "custom_block:invisible/crafted"
+  }
+}
