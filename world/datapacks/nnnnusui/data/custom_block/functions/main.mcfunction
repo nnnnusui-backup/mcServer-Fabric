@@ -5,4 +5,4 @@ scoreboard players set @a stick 0
 # add colision when custom_block placed.
 execute as @e[type=minecraft:item_frame,tag=custom_block,tag=!placed] at @s run function custom_block:collision/add
 # remove colision when custom_block braked.
-execute as @e[type=minecraft:item_frame,tag=custom_block,tag=placed] at @s if block ~ ~ ~ minecraft:air run function custom_block:collision/remove
+#execute as @e[type=minecraft:item_frame,tag=custom_block,tag=placed] at @s if block ~ ~ ~ minecraft:air run function custom_block:collision/remove
