@@ -1294,12 +1294,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2022-11-24 20:18:33 +0000",
       "minecraft:deep_ocean": "2022-11-19 15:25:54 +0000",
       "minecraft:birch_forest": "2022-11-19 15:25:05 +0000",
       "minecraft:windswept_hills": "2021-11-26 19:52:06 +0000",
       "minecraft:beach": "2022-11-19 18:51:30 +0000",
       "minecraft:dark_forest": "2021-09-25 08:58:23 +0000",
       "minecraft:river": "2022-11-19 18:52:45 +0000",
+      "minecraft:snowy_taiga": "2022-11-24 19:33:53 +0000",
+      "minecraft:swamp": "2022-11-24 19:29:11 +0000",
       "minecraft:cold_ocean": "2022-11-19 18:51:51 +0000",
       "minecraft:forest": "2022-11-19 15:46:42 +0000",
       "minecraft:windswept_forest": "2022-11-23 03:40:56 +0000",
@@ -2243,6 +2246,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-11-19 16:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2022-11-24 20:32:26 +0000"
     },
     "done": true
   },

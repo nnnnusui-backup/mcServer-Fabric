@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2022-11-24 18:48:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2022-11-19 16:42:15 +0000"
@@ -272,6 +278,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2022-11-23 06:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2022-11-24 19:18:05 +0000"
     },
     "done": true
   },
@@ -845,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2022-11-24 18:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-11-19 22:33:42 +0000"
@@ -860,6 +878,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-11-19 18:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2022-11-24 18:28:41 +0000"
     },
     "done": true
   },
@@ -1022,6 +1046,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2022-11-21 17:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2022-11-24 19:14:22 +0000"
     },
     "done": true
   },
@@ -1370,13 +1400,30 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2022-11-22 20:38:10 +0000",
+      "minecraft:deep_ocean": "2022-11-24 19:33:14 +0000",
+      "minecraft:frozen_river": "2022-11-24 18:12:04 +0000",
+      "minecraft:birch_forest": "2022-11-24 19:16:39 +0000",
       "minecraft:windswept_hills": "2022-11-19 15:05:25 +0000",
       "minecraft:beach": "2022-11-20 18:00:04 +0000",
       "minecraft:dark_forest": "2022-11-19 15:05:40 +0000",
+      "minecraft:sparse_jungle": "2022-11-24 19:27:55 +0000",
       "minecraft:river": "2022-11-19 15:06:26 +0000",
+      "minecraft:snowy_plains": "2022-11-24 18:10:11 +0000",
+      "minecraft:stony_shore": "2022-11-24 18:51:42 +0000",
+      "minecraft:snowy_taiga": "2022-11-24 19:04:31 +0000",
+      "minecraft:swamp": "2022-11-24 19:09:26 +0000",
       "minecraft:cold_ocean": "2022-11-20 15:49:41 +0000",
       "minecraft:forest": "2022-11-19 16:17:15 +0000",
+      "minecraft:deep_cold_ocean": "2022-11-24 18:23:24 +0000",
+      "minecraft:frozen_ocean": "2022-11-24 18:12:41 +0000",
       "minecraft:windswept_forest": "2022-11-19 15:06:17 +0000",
+      "minecraft:deep_frozen_ocean": "2022-11-24 18:25:13 +0000",
+      "minecraft:jungle": "2022-11-24 19:23:22 +0000",
+      "minecraft:ocean": "2022-11-24 19:14:55 +0000",
+      "minecraft:snowy_beach": "2022-11-24 18:12:17 +0000",
+      "minecraft:windswept_savanna": "2022-11-24 19:14:08 +0000",
+      "minecraft:old_growth_birch_forest": "2022-11-24 19:15:47 +0000",
+      "minecraft:windswept_gravelly_hills": "2022-11-24 19:10:55 +0000",
       "minecraft:plains": "2022-11-19 15:04:00 +0000"
     },
     "done": false
@@ -1579,12 +1626,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-11-24 19:25:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2022-11-21 17:10:27 +0000",
       "minecraft:basalt_deltas": "2022-11-21 16:57:31 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2022-11-24 19:24:32 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1637,6 +1696,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2022-11-19 16:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2022-11-24 19:24:32 +0000"
     },
     "done": true
   },
@@ -1975,6 +2040,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-11-19 16:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2022-11-24 18:48:56 +0000"
     },
     "done": true
   },
@@ -2339,6 +2410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2022-11-24 19:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2022-11-19 22:33:42 +0000"
@@ -2405,6 +2482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2022-11-24 18:28:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_dried_kelp_block": "2022-11-22 21:08:25 +0000"
@@ -2468,6 +2551,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2022-11-19 18:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2022-11-24 18:28:41 +0000"
     },
     "done": true
   },
@@ -2546,6 +2635,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-11-23 08:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-11-24 18:10:12 +0000"
     },
     "done": true
   },
@@ -2702,6 +2797,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-11-20 15:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-11-24 19:25:35 +0000"
     },
     "done": true
   },
@@ -2933,6 +3034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2022-11-24 19:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-11-19 20:09:27 +0000"
@@ -3014,6 +3121,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2022-11-20 19:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-11-24 18:10:12 +0000"
     },
     "done": true
   },
