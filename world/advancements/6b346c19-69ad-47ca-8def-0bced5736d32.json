@@ -666,7 +666,10 @@
       "minecraft:magma_cube": "2022-11-27 01:37:38 +0000",
       "minecraft:spider": "2022-11-19 18:40:31 +0000",
       "minecraft:creeper": "2022-11-21 21:38:11 +0000",
-      "minecraft:zombie": "2022-11-19 18:33:15 +0000"
+      "minecraft:phantom": "2022-11-27 07:14:20 +0000",
+      "minecraft:witch": "2022-11-27 06:58:41 +0000",
+      "minecraft:zombie": "2022-11-19 18:33:15 +0000",
+      "minecraft:zombie_villager": "2022-11-27 06:15:06 +0000"
     },
     "done": false
   },
@@ -871,6 +874,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2022-11-19 17:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2022-11-27 06:16:40 +0000"
     },
     "done": true
   },
@@ -2327,6 +2336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2022-11-27 06:16:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2022-11-19 20:43:51 +0000"
@@ -2366,6 +2381,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2022-11-19 18:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2022-11-27 06:16:40 +0000"
     },
     "done": true
   },
