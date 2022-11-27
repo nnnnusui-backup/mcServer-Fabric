@@ -1,19 +1,7 @@
 {
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_pickaxe": "2022-11-23 03:37:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2022-11-23 03:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2022-11-23 04:09:59 +0000"
     },
     "done": true
   },
@@ -23,9 +11,286 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-11-23 03:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-11-27 02:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2022-11-23 03:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2022-11-23 04:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2022-11-23 03:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-11-23 03:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-11-27 02:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-27 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-11-23 03:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2022-11-23 03:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2022-11-23 04:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-11-23 03:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2022-11-23 03:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2022-11-23 04:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2022-11-23 03:42:00 +0000",
+      "bread": "2022-11-27 02:03:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2022-11-23 03:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-11-23 04:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2022-11-23 04:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-11-27 02:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-11-27 02:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-27 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-11-23 03:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2022-11-23 04:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-11-27 02:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-11-27 02:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2022-11-23 04:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-11-23 04:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-27 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2022-11-23 03:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-11-23 04:09:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2022-11-23 04:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-11-27 02:24:22 +0000"
     },
     "done": true
   },
@@ -41,27 +306,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_sword": {
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+      "has_bed": "2022-11-27 02:24:22 +0000"
     },
     "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2022-11-23 03:38:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_pickaxe": {
-    "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2022-11-23 03:58:08 +0000"
     },
     "done": true
   },
@@ -90,9 +343,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_stick": "2022-11-23 03:37:11 +0000"
+      "slept_in_bed": "2022-11-23 03:57:19 +0000"
     },
     "done": true
   },
@@ -102,15 +355,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
-      "has_planks": "2022-11-23 04:09:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2022-11-23 03:57:19 +0000"
+      "has_bed": "2022-11-27 02:24:22 +0000"
     },
     "done": true
   },
@@ -126,9 +373,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "has_stick": "2022-11-23 03:37:11 +0000"
+      "has_raw_copper": "2022-11-23 03:41:54 +0000"
     },
     "done": true
   },
@@ -138,37 +385,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2022-11-23 03:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget": {
-    "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2022-11-23 03:39:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2022-11-23 03:49:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2022-11-23 03:49:43 +0000"
     },
@@ -186,27 +403,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
+  "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
-      "has_stick": "2022-11-23 03:37:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2022-11-23 03:34:44 +0000"
+      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2022-11-23 03:41:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
     },
     "done": true
   },
@@ -234,15 +439,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/shears": {
+  "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+      "has_planks": "2022-11-27 02:25:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
-      "has_planks": "2022-11-23 04:09:59 +0000"
+      "has_bed": "2022-11-27 02:24:22 +0000"
     },
     "done": true
   },
@@ -258,21 +463,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
-      "in_water": "2022-11-23 03:49:43 +0000"
+      "has_planks": "2022-11-27 02:25:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/wooden_sword": {
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
-      "has_stick": "2022-11-23 03:37:11 +0000"
+      "has_bed": "2022-11-27 02:24:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
-      "has_logs": "2022-11-23 04:10:10 +0000"
+      "has_bed": "2022-11-27 02:24:22 +0000"
     },
     "done": true
   },
@@ -300,33 +505,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_leggings": {
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+      "has_bed": "2022-11-27 02:24:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+      "has_bed": "2022-11-27 02:24:22 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "cooked_beef": "2022-11-23 03:42:00 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2022-11-23 03:37:11 +0000"
+      "has_log": "2022-11-27 02:18:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/shield": {
+  "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+      "has_planks": "2022-11-27 02:25:41 +0000"
     },
     "done": true
   },
@@ -336,27 +535,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bucket": {
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+      "has_bed": "2022-11-27 02:24:22 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2022-11-23 03:37:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2022-11-23 04:09:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
     },
     "done": true
   },
@@ -367,21 +554,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/bone_meal": {
+  "minecraft:recipes/redstone/birch_door": {
     "criteria": {
-      "has_bone": "2022-11-23 04:00:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2022-11-23 03:37:17 +0000"
+      "has_planks": "2022-11-27 02:25:41 +0000"
     },
     "done": true
   },
@@ -391,9 +566,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
-      "has_log": "2022-11-23 04:10:10 +0000"
+      "has_bed": "2022-11-27 02:24:22 +0000"
     },
     "done": true
   },
@@ -403,21 +578,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2022-11-23 03:37:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
     },
     "done": true
   },
@@ -433,15 +596,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
+  "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
-      "has_planks": "2022-11-23 04:09:59 +0000"
+      "has_planks": "2022-11-27 02:25:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_trapdoor": {
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
-      "has_planks": "2022-11-23 04:09:59 +0000"
+      "has_bed": "2022-11-27 02:24:22 +0000"
     },
     "done": true
   },
@@ -451,9 +614,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
-      "has_iron_ingot": "2022-11-23 03:34:44 +0000"
+      "has_bed": "2022-11-27 02:24:22 +0000"
     },
     "done": true
   },

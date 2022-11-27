@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2022-11-27 00:06:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2022-11-19 19:08:24 +0000"
@@ -657,6 +663,7 @@
     "criteria": {
       "minecraft:pillager": "2022-11-24 20:28:15 +0000",
       "minecraft:skeleton": "2022-11-21 19:23:07 +0000",
+      "minecraft:magma_cube": "2022-11-27 01:37:38 +0000",
       "minecraft:spider": "2022-11-19 18:40:31 +0000",
       "minecraft:creeper": "2022-11-21 21:38:11 +0000",
       "minecraft:zombie": "2022-11-19 18:33:15 +0000"
@@ -1350,6 +1357,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2022-11-19 16:37:54 +0000",
+      "minecraft:deep_ocean": "2022-11-27 00:23:52 +0000",
       "minecraft:frozen_river": "2022-11-19 19:46:00 +0000",
       "minecraft:windswept_hills": "2022-11-19 15:05:28 +0000",
       "minecraft:beach": "2022-11-19 17:54:18 +0000",
@@ -1360,6 +1368,7 @@
       "minecraft:swamp": "2022-11-19 19:50:40 +0000",
       "minecraft:cold_ocean": "2022-11-19 17:56:10 +0000",
       "minecraft:forest": "2022-11-19 16:17:18 +0000",
+      "minecraft:ocean": "2022-11-27 00:21:56 +0000",
       "minecraft:windswept_gravelly_hills": "2022-11-19 19:51:03 +0000",
       "minecraft:plains": "2022-11-19 15:01:05 +0000"
     },
@@ -1491,6 +1500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2022-11-27 00:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-11-19 21:26:12 +0000"
@@ -1533,6 +1548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-11-26 22:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2022-11-19 18:59:59 +0000"
@@ -1548,6 +1569,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2022-11-21 17:10:43 +0000",
+      "minecraft:nether_wastes": "2022-11-27 01:39:39 +0000",
       "minecraft:basalt_deltas": "2022-11-21 16:57:32 +0000"
     },
     "done": false
@@ -1891,6 +1913,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2022-11-21 17:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-11-26 22:14:30 +0000"
     },
     "done": true
   },
