@@ -669,6 +669,7 @@
       "minecraft:phantom": "2022-11-27 07:14:20 +0000",
       "minecraft:witch": "2022-11-27 06:58:41 +0000",
       "minecraft:zombie": "2022-11-19 18:33:15 +0000",
+      "minecraft:drowned": "2022-11-28 15:18:39 +0000",
       "minecraft:zombie_villager": "2022-11-27 06:15:06 +0000"
     },
     "done": false
@@ -1898,6 +1899,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-11-21 17:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2022-11-28 16:40:16 +0000"
     },
     "done": true
   },

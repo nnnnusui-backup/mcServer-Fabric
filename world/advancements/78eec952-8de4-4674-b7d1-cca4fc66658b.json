@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2022-11-28 12:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2022-11-19 18:49:19 +0000"
@@ -761,7 +767,9 @@
       "minecraft:cave_spider": "2022-11-20 19:30:22 +0000",
       "minecraft:piglin": "2022-11-21 17:24:12 +0000",
       "minecraft:enderman": "2022-11-22 18:21:50 +0000",
-      "minecraft:zombie": "2022-11-19 17:16:43 +0000"
+      "minecraft:zombie": "2022-11-19 17:16:43 +0000",
+      "minecraft:drowned": "2022-11-28 16:30:15 +0000",
+      "minecraft:zombie_villager": "2022-11-28 13:44:24 +0000"
     },
     "done": false
   },
@@ -963,6 +971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2022-11-28 13:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-09-25 08:53:20 +0000"
@@ -972,6 +986,12 @@
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-11-20 20:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2022-11-28 12:25:44 +0000"
     },
     "done": true
   },
@@ -1008,6 +1028,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2022-11-20 18:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2022-11-28 13:29:49 +0000"
     },
     "done": true
   },
@@ -2586,6 +2612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2022-11-28 13:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2022-11-19 20:13:52 +0000"
@@ -2649,6 +2681,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2022-11-20 18:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2022-11-28 13:44:22 +0000"
     },
     "done": true
   },
@@ -2871,6 +2909,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-11-19 18:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2022-11-28 12:25:44 +0000"
     },
     "done": true
   },
@@ -3417,6 +3461,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-11-25 16:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2022-11-28 13:29:49 +0000"
     },
     "done": true
   },
