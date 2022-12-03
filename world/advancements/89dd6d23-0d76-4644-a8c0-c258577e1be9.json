@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2022-12-03 12:01:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-11-19 16:20:05 +0000"
@@ -2602,6 +2608,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2022-11-21 17:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2022-12-03 11:37:36 +0000"
     },
     "done": true
   },
