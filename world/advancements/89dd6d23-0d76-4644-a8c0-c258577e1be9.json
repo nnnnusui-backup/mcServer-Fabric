@@ -761,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2022-12-04 13:45:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2022-11-25 16:08:06 +0000"
@@ -914,6 +920,7 @@
       "minecraft:magma_cube": "2022-11-21 17:02:09 +0000",
       "minecraft:spider": "2022-11-19 20:11:03 +0000",
       "minecraft:creeper": "2022-11-19 18:40:30 +0000",
+      "minecraft:wither": "2022-12-04 12:50:12 +0000",
       "minecraft:slime": "2022-11-19 21:54:49 +0000",
       "minecraft:phantom": "2022-11-22 21:37:48 +0000",
       "minecraft:zombified_piglin": "2022-11-28 06:16:04 +0000",
@@ -1367,6 +1374,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2022-12-04 13:23:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2022-11-21 16:04:13 +0000"
@@ -1616,6 +1629,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2022-11-19 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2022-12-04 12:49:58 +0000"
     },
     "done": true
   },
@@ -2643,6 +2662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2022-12-04 13:45:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2022-11-21 20:13:34 +0000"
@@ -2652,6 +2677,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-11-23 08:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2022-12-04 13:23:02 +0000"
     },
     "done": true
   },
@@ -2706,6 +2737,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2022-11-22 20:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-12-04 12:49:42 +0000"
     },
     "done": true
   },
@@ -3096,6 +3133,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-11-19 16:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2022-12-04 12:50:13 +0000"
     },
     "done": true
   },
@@ -4098,6 +4141,12 @@
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2022-11-30 06:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2022-12-04 14:26:15 +0000"
     },
     "done": true
   },
