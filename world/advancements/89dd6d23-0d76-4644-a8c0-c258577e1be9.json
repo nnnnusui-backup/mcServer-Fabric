@@ -491,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2022-12-05 12:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2022-11-26 16:51:43 +0000"
@@ -916,7 +922,9 @@
       "minecraft:pillager": "2022-11-23 06:29:30 +0000",
       "minecraft:blaze": "2022-12-04 07:27:27 +0000",
       "minecraft:skeleton": "2022-11-19 16:47:10 +0000",
+      "minecraft:ravager": "2022-12-05 12:53:15 +0000",
       "minecraft:ghast": "2022-11-21 17:21:07 +0000",
+      "minecraft:vindicator": "2022-12-05 12:51:59 +0000",
       "minecraft:magma_cube": "2022-11-21 17:02:09 +0000",
       "minecraft:spider": "2022-11-19 20:11:03 +0000",
       "minecraft:creeper": "2022-11-19 18:40:30 +0000",
@@ -1077,6 +1085,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2022-11-26 18:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-12-05 12:23:52 +0000"
     },
     "done": true
   },
@@ -1383,6 +1397,12 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2022-12-04 13:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2022-12-05 13:47:47 +0000"
     },
     "done": true
   },
@@ -1941,14 +1961,17 @@
       "minecraft:stony_shore": "2022-11-24 18:51:42 +0000",
       "minecraft:snowy_taiga": "2022-11-24 19:04:31 +0000",
       "minecraft:swamp": "2022-11-24 19:09:26 +0000",
+      "minecraft:grove": "2022-12-05 13:30:26 +0000",
       "minecraft:cold_ocean": "2022-11-20 15:49:41 +0000",
       "minecraft:forest": "2022-11-19 16:17:15 +0000",
+      "minecraft:lush_caves": "2022-12-05 13:45:14 +0000",
       "minecraft:deep_cold_ocean": "2022-11-24 18:23:24 +0000",
       "minecraft:frozen_ocean": "2022-11-24 18:12:41 +0000",
       "minecraft:windswept_forest": "2022-11-19 15:06:17 +0000",
       "minecraft:deep_frozen_ocean": "2022-11-24 18:25:13 +0000",
       "minecraft:jungle": "2022-11-24 19:23:22 +0000",
       "minecraft:ocean": "2022-11-24 19:14:55 +0000",
+      "minecraft:old_growth_spruce_taiga": "2022-12-05 13:21:17 +0000",
       "minecraft:snowy_beach": "2022-11-24 18:12:17 +0000",
       "minecraft:windswept_savanna": "2022-11-24 19:14:08 +0000",
       "minecraft:old_growth_birch_forest": "2022-11-24 19:15:47 +0000",
@@ -2551,6 +2574,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-11-19 19:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-12-05 12:53:22 +0000"
     },
     "done": true
   },
@@ -3436,6 +3465,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2022-12-05 12:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-11-19 20:05:10 +0000"
@@ -3814,6 +3849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-12-05 13:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-11-19 17:57:50 +0000"
@@ -3997,6 +4038,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-11-19 20:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-12-05 13:47:47 +0000"
     },
     "done": true
   },

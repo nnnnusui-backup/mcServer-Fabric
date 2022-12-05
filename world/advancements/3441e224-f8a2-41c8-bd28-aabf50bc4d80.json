@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-12-05 13:20:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_the_recipe": "2022-11-23 06:07:29 +0000"
@@ -281,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2022-12-05 12:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-11-23 06:07:19 +0000"
@@ -350,6 +362,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2022-12-04 02:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2022-12-05 13:20:09 +0000"
     },
     "done": true
   },
@@ -603,6 +621,8 @@
     "criteria": {
       "minecraft:pillager": "2022-11-23 06:27:29 +0000",
       "minecraft:skeleton": "2022-11-27 06:17:42 +0000",
+      "minecraft:ravager": "2022-12-05 12:52:37 +0000",
+      "minecraft:vindicator": "2022-12-05 12:52:25 +0000",
       "minecraft:magma_cube": "2022-12-03 14:54:50 +0000",
       "minecraft:spider": "2022-11-23 06:44:06 +0000",
       "minecraft:creeper": "2022-11-27 06:14:34 +0000",
@@ -693,6 +713,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-12-04 12:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-12-05 12:52:25 +0000"
     },
     "done": true
   },
@@ -831,6 +857,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2022-11-27 05:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-12-05 13:14:07 +0000"
     },
     "done": true
   },
@@ -1146,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-12-05 13:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-11-23 07:06:33 +0000"
@@ -1260,6 +1298,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-12-03 13:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2022-12-05 13:20:09 +0000"
     },
     "done": true
   },
@@ -1473,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-12-05 12:53:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2022-11-23 06:09:19 +0000"
@@ -1616,8 +1666,10 @@
       "cooked_mutton": "2022-12-04 02:51:19 +0000",
       "sweet_berries": "2022-12-04 05:33:48 +0000",
       "apple": "2022-11-23 08:15:00 +0000",
+      "pumpkin_pie": "2022-12-05 13:16:33 +0000",
       "bread": "2022-11-23 06:16:59 +0000",
-      "rotten_flesh": "2022-11-25 17:11:04 +0000"
+      "rotten_flesh": "2022-11-25 17:11:04 +0000",
+      "cookie": "2022-12-05 12:59:13 +0000"
     },
     "done": false
   },
@@ -1708,6 +1760,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2022-11-23 06:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2022-12-05 13:20:09 +0000"
     },
     "done": true
   },
@@ -1933,6 +1991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2022-12-05 13:20:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-11-23 06:16:25 +0000"
@@ -1954,6 +2018,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2022-11-23 06:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2022-12-05 12:49:35 +0000"
     },
     "done": true
   },
@@ -2275,6 +2345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-12-05 13:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-11-25 14:15:45 +0000"
@@ -2371,6 +2447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2022-12-05 13:20:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-11-23 07:45:27 +0000"
@@ -2392,6 +2474,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-12-03 13:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-12-05 13:04:19 +0000"
     },
     "done": true
   },
@@ -2437,6 +2525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2022-12-05 12:49:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2022-12-03 13:44:51 +0000"
@@ -2464,6 +2558,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2022-11-27 06:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2022-12-05 12:11:17 +0000"
     },
     "done": true
   },
