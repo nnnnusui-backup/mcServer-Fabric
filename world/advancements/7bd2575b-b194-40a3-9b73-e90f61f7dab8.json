@@ -835,6 +835,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-12-08 16:42:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-09-19 16:18:27 +0000"
@@ -1323,6 +1329,7 @@
       "minecraft:swamp": "2021-09-20 07:21:06 +0000",
       "minecraft:cold_ocean": "2022-05-13 23:12:28 +0000",
       "minecraft:forest": "2021-11-02 19:16:33 +0000",
+      "minecraft:lush_caves": "2022-12-08 16:42:25 +0000",
       "minecraft:deep_cold_ocean": "2022-05-13 23:17:16 +0000",
       "minecraft:desert": "2021-09-20 07:23:31 +0000",
       "minecraft:windswept_forest": "2021-09-19 18:21:17 +0000",
@@ -1526,10 +1533,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-09-21 04:41:48 +0000",
       "minecraft:nether_wastes": "2021-09-20 06:55:49 +0000",
+      "minecraft:soul_sand_valley": "2022-12-08 16:41:24 +0000",
       "minecraft:warped_forest": "2021-09-21 04:52:56 +0000",
       "minecraft:basalt_deltas": "2021-09-21 04:55:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -3084,5 +3092,5 @@
     },
     "done": true
   },
-  "DataVersion": 2975
+  "DataVersion": 3120
 }

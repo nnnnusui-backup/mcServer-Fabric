@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2022-12-08 17:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2022-11-19 18:59:59 +0000"
@@ -461,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-12-08 16:45:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2022-11-21 17:19:31 +0000"
@@ -605,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2022-12-08 16:57:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-11-19 16:24:09 +0000"
@@ -668,6 +686,9 @@
       "minecraft:creeper": "2022-11-21 21:38:11 +0000",
       "minecraft:phantom": "2022-11-27 07:14:20 +0000",
       "minecraft:witch": "2022-11-27 06:58:41 +0000",
+      "minecraft:shulker": "2022-12-08 17:31:53 +0000",
+      "minecraft:enderman": "2022-12-08 16:59:58 +0000",
+      "minecraft:silverfish": "2022-12-08 16:22:37 +0000",
       "minecraft:zombie": "2022-11-19 18:33:15 +0000",
       "minecraft:drowned": "2022-11-28 15:18:39 +0000",
       "minecraft:zombie_villager": "2022-11-27 06:15:06 +0000"
@@ -860,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-12-08 16:18:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-11-19 21:26:12 +0000"
@@ -923,6 +950,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2022-11-19 18:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-12-08 16:49:55 +0000"
     },
     "done": true
   },
@@ -1378,6 +1411,7 @@
       "minecraft:swamp": "2022-11-19 19:50:40 +0000",
       "minecraft:cold_ocean": "2022-11-19 17:56:10 +0000",
       "minecraft:forest": "2022-11-19 16:17:18 +0000",
+      "minecraft:lush_caves": "2022-12-08 16:18:05 +0000",
       "minecraft:ocean": "2022-11-27 00:21:56 +0000",
       "minecraft:windswept_gravelly_hills": "2022-11-19 19:51:03 +0000",
       "minecraft:plains": "2022-11-19 15:01:05 +0000"
@@ -1423,6 +1457,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2022-11-19 16:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-12-08 16:45:59 +0000"
     },
     "done": true
   },
@@ -1519,6 +1559,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-11-19 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2022-12-08 16:58:53 +0000"
     },
     "done": true
   },
@@ -1806,6 +1852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-12-08 16:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-11-19 20:58:30 +0000"
@@ -2009,6 +2061,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-11-19 16:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-12-08 16:45:59 +0000"
     },
     "done": true
   },
@@ -2220,6 +2278,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2022-11-19 20:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-12-08 16:45:59 +0000"
     },
     "done": true
   },
@@ -2553,6 +2617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-12-08 16:45:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-11-19 17:57:33 +0000"
@@ -2592,6 +2662,18 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-11-24 19:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-12-08 16:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-12-08 16:54:28 +0000"
     },
     "done": true
   },
@@ -2823,6 +2905,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-12-08 17:30:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-11-19 16:50:20 +0000"
@@ -2868,6 +2956,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2022-11-21 17:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-12-08 16:45:59 +0000"
     },
     "done": true
   },
@@ -2955,6 +3049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-12-08 16:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-11-19 18:59:59 +0000"
@@ -3006,6 +3106,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-11-19 16:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-12-08 16:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-12-08 16:54:28 +0000"
     },
     "done": true
   },
