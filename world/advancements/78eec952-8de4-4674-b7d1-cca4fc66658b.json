@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-12-08 17:55:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2022-11-19 18:49:19 +0000"
@@ -278,6 +284,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2021-11-26 19:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2022-12-08 17:33:30 +0000"
     },
     "done": true
   },
@@ -356,6 +368,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2022-11-19 20:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2022-12-08 17:33:30 +0000"
     },
     "done": true
   },
@@ -831,6 +849,7 @@
       "minecraft:piglin_brute": "2022-11-21 17:26:39 +0000",
       "minecraft:creeper": "2022-11-20 01:03:38 +0000",
       "minecraft:slime": "2022-11-19 19:26:49 +0000",
+      "minecraft:phantom": "2022-12-08 18:42:53 +0000",
       "minecraft:witch": "2022-11-27 19:59:13 +0000",
       "minecraft:shulker": "2022-12-08 17:31:58 +0000",
       "minecraft:cave_spider": "2022-11-20 19:30:22 +0000",
@@ -1690,6 +1709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2022-12-08 17:33:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-11-26 19:50:35 +0000"
@@ -2164,6 +2189,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2022-11-25 15:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2022-12-08 17:33:30 +0000"
     },
     "done": true
   },
@@ -3763,6 +3794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2022-12-08 17:33:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2022-11-24 21:35:44 +0000"
@@ -3892,6 +3929,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2022-12-01 19:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2022-12-08 17:33:30 +0000"
     },
     "done": true
   },
