@@ -1190,6 +1190,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-12-15 19:22:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2022-11-21 17:23:55 +0000"
@@ -3431,6 +3437,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2022-12-15 18:20:51 +0000",
       "minecraft:taiga": "2022-11-22 20:38:10 +0000",
       "minecraft:deep_ocean": "2022-11-24 19:33:14 +0000",
       "minecraft:frozen_river": "2022-11-24 18:12:04 +0000",
@@ -3449,6 +3456,7 @@
       "minecraft:forest": "2022-11-19 16:17:15 +0000",
       "minecraft:lush_caves": "2022-12-05 13:45:14 +0000",
       "minecraft:deep_cold_ocean": "2022-11-24 18:23:24 +0000",
+      "minecraft:ice_spikes": "2022-12-15 17:56:50 +0000",
       "minecraft:frozen_ocean": "2022-11-24 18:12:41 +0000",
       "minecraft:windswept_forest": "2022-11-19 15:06:17 +0000",
       "minecraft:deep_frozen_ocean": "2022-11-24 18:25:13 +0000",
@@ -3730,6 +3738,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2022-12-05 12:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-12-15 19:23:29 +0000"
     },
     "done": true
   },
