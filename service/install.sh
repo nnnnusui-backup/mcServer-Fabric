@@ -1,5 +1,5 @@
-mcVer="1.19.2"
-fabricVer="0.14.10"
+mcVer="1.19.3"
+fabricVer="0.14.11"
 fabricInstallerVer="0.11.1"
 gitUserName="nnnnusui-backup"
 gitUserEmail="nnnnusui+backup@gmail.com"
