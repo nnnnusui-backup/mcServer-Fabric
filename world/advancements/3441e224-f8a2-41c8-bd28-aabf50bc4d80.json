@@ -1643,12 +1643,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_netherbrick": "2022-12-03 14:30:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-11-23 06:16:09 +0000"
@@ -2759,5 +2753,5 @@
     },
     "done": true
   },
-  "DataVersion": 3120
+  "DataVersion": 3218
 }
