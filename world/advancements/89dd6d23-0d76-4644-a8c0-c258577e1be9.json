@@ -1637,7 +1637,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:mule": "2022-11-24 09:12:39 +0000",
-      "minecraft:cow": "2022-11-20 14:36:03 +0000"
+      "minecraft:cow": "2022-11-20 14:36:03 +0000",
+      "minecraft:bee": "2022-12-18 01:07:28 +0000"
     },
     "done": false
   },
