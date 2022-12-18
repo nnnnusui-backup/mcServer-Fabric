@@ -1127,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2022-12-18 18:14:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2022-11-20 21:58:18 +0000"
@@ -2686,6 +2692,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-12-18 17:44:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2022-11-25 15:24:33 +0000"
@@ -3537,6 +3549,7 @@
       "minecraft:sunflower_plains": "2022-12-17 19:58:38 +0000",
       "minecraft:birch_forest": "2022-11-24 19:16:39 +0000",
       "minecraft:windswept_hills": "2022-11-19 15:05:25 +0000",
+      "minecraft:savanna_plateau": "2022-12-18 19:07:30 +0000",
       "minecraft:beach": "2022-11-20 18:00:04 +0000",
       "minecraft:dark_forest": "2022-11-19 15:05:40 +0000",
       "minecraft:sparse_jungle": "2022-11-24 19:27:55 +0000",
@@ -3544,6 +3557,7 @@
       "minecraft:snowy_plains": "2022-11-24 18:10:11 +0000",
       "minecraft:stony_shore": "2022-11-24 18:51:42 +0000",
       "minecraft:snowy_taiga": "2022-11-24 19:04:31 +0000",
+      "minecraft:dripstone_caves": "2022-12-18 17:02:42 +0000",
       "minecraft:swamp": "2022-11-24 19:09:26 +0000",
       "minecraft:grove": "2022-12-05 13:30:26 +0000",
       "minecraft:cold_ocean": "2022-11-20 15:49:41 +0000",
@@ -3560,7 +3574,9 @@
       "minecraft:snowy_beach": "2022-11-24 18:12:17 +0000",
       "minecraft:windswept_savanna": "2022-11-24 19:14:08 +0000",
       "minecraft:old_growth_birch_forest": "2022-11-24 19:15:47 +0000",
+      "minecraft:deep_dark": "2022-12-18 17:04:50 +0000",
       "minecraft:windswept_gravelly_hills": "2022-11-24 19:10:55 +0000",
+      "minecraft:savanna": "2022-12-18 16:58:03 +0000",
       "minecraft:plains": "2022-11-19 15:04:00 +0000"
     },
     "done": false
@@ -4012,6 +4028,7 @@
       "apple": "2022-11-19 17:05:36 +0000",
       "cooked_cod": "2022-11-19 19:50:59 +0000",
       "bread": "2022-11-20 00:06:13 +0000",
+      "golden_apple": "2022-12-18 17:56:34 +0000",
       "rotten_flesh": "2022-11-19 18:48:20 +0000",
       "suspicious_stew": "2022-11-28 05:28:05 +0000",
       "cooked_chicken": "2022-11-26 04:44:56 +0000",
