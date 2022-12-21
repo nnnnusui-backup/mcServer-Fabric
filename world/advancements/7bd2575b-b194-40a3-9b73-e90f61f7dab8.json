@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2022-12-21 19:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2021-09-19 15:49:18 +0000"
@@ -284,6 +290,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2021-09-19 15:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-12-21 19:02:29 +0000"
     },
     "done": true
   },
@@ -875,6 +887,7 @@
       "minecraft:creeper": "2021-09-20 07:04:42 +0000",
       "minecraft:wither": "2021-12-03 20:10:50 +0000",
       "minecraft:phantom": "2021-09-23 17:33:10 +0000",
+      "minecraft:zombified_piglin": "2022-12-21 18:11:16 +0000",
       "minecraft:witch": "2021-11-02 18:23:43 +0000",
       "minecraft:wither_skeleton": "2021-11-12 17:54:00 +0000",
       "minecraft:husk": "2021-11-12 19:58:12 +0000",
@@ -887,6 +900,12 @@
       "minecraft:zombie_villager": "2021-09-19 17:46:31 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2022-12-21 20:11:06 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
@@ -1275,6 +1294,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2022-12-17 20:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-12-21 18:57:24 +0000"
     },
     "done": true
   },
@@ -1668,6 +1693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2022-12-21 19:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2021-11-12 20:47:26 +0000"
@@ -1725,6 +1756,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2021-09-19 16:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-12-21 18:57:24 +0000"
     },
     "done": true
   },
@@ -1812,6 +1849,12 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2022-12-17 23:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-12-21 18:29:33 +0000"
     },
     "done": true
   },
@@ -3235,6 +3278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2022-12-21 20:10:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-09-19 16:13:29 +0000"
@@ -3517,6 +3566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2022-12-21 19:17:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2022-05-13 22:13:52 +0000"
@@ -3559,6 +3614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2022-12-21 20:35:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-09-19 16:26:14 +0000"
@@ -3580,6 +3641,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-11-12 19:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-12-21 18:57:24 +0000"
     },
     "done": true
   },
@@ -3856,6 +3923,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2022-12-17 16:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2022-12-21 18:15:06 +0000"
     },
     "done": true
   },

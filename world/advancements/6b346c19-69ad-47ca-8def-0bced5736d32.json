@@ -866,6 +866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2022-12-21 18:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2022-11-19 17:02:28 +0000"
@@ -1184,6 +1190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2022-12-21 18:13:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2022-12-08 16:49:55 +0000"
@@ -1385,6 +1397,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2022-11-21 19:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2022-12-21 19:47:12 +0000"
     },
     "done": true
   },
@@ -1679,6 +1697,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-11-19 16:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2022-12-21 18:14:07 +0000"
     },
     "done": true
   },
@@ -2063,6 +2087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2022-12-21 18:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2022-11-21 21:38:48 +0000"
@@ -2398,6 +2428,7 @@
       "cooked_porkchop": "2022-11-19 18:38:47 +0000",
       "cooked_mutton": "2022-11-19 16:33:24 +0000",
       "cooked_beef": "2022-11-19 21:04:03 +0000",
+      "chorus_fruit": "2022-12-21 19:13:44 +0000",
       "beef": "2022-11-19 16:51:33 +0000",
       "baked_potato": "2022-12-17 16:39:06 +0000",
       "apple": "2022-11-19 16:32:15 +0000",
@@ -2937,6 +2968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-12-21 18:14:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-11-19 16:27:10 +0000"
@@ -2976,6 +3013,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2022-11-19 16:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-12-21 18:14:21 +0000"
     },
     "done": true
   },
@@ -3513,6 +3556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2022-12-21 18:13:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2022-12-15 15:41:29 +0000"
@@ -3570,6 +3619,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-11-19 22:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-12-21 18:13:55 +0000"
     },
     "done": true
   },

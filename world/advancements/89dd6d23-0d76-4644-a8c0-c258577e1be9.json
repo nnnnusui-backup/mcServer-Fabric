@@ -1942,6 +1942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2022-12-21 20:13:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-11-19 16:27:28 +0000"
@@ -2095,6 +2101,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2022-11-30 06:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2022-12-21 20:21:17 +0000"
     },
     "done": true
   },
@@ -2437,6 +2449,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2022-11-30 09:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2022-12-21 19:00:02 +0000"
     },
     "done": true
   },
@@ -2964,6 +2982,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2022-12-21 20:39:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-11-30 05:59:07 +0000"
@@ -3297,6 +3321,12 @@
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_light_blue_wool": "2022-11-30 09:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2022-12-21 18:41:05 +0000"
     },
     "done": true
   },
@@ -4030,6 +4060,7 @@
       "cooked_porkchop": "2022-11-19 18:39:19 +0000",
       "cooked_mutton": "2022-11-19 17:09:03 +0000",
       "cooked_beef": "2022-11-21 17:01:24 +0000",
+      "chorus_fruit": "2022-12-21 19:14:01 +0000",
       "baked_potato": "2022-11-27 20:59:27 +0000",
       "apple": "2022-11-19 17:05:36 +0000",
       "cooked_cod": "2022-11-19 19:50:59 +0000",
