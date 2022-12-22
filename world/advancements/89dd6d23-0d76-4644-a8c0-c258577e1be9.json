@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2022-12-22 12:13:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-11-23 08:21:07 +0000"
@@ -1262,6 +1268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2022-12-22 12:13:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2022-11-19 16:20:32 +0000"
@@ -1631,6 +1643,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2022-12-04 07:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2022-12-22 12:13:32 +0000"
     },
     "done": true
   },
@@ -5058,6 +5076,13 @@
       "has_stone": "2022-11-19 19:08:26 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:jellie": "2022-12-22 11:50:26 +0000",
+      "minecraft:ragdoll": "2022-12-22 11:49:37 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
