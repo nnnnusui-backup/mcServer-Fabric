@@ -689,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2022-12-26 12:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2021-09-19 18:55:26 +0000"
@@ -1886,6 +1892,7 @@
       "minecraft:dark_forest": "2021-09-19 15:45:13 +0000",
       "minecraft:sparse_jungle": "2022-05-13 22:56:50 +0000",
       "minecraft:river": "2021-09-20 07:20:57 +0000",
+      "minecraft:snowy_plains": "2022-12-26 12:42:49 +0000",
       "minecraft:dripstone_caves": "2021-12-03 18:09:01 +0000",
       "minecraft:swamp": "2021-09-20 07:21:06 +0000",
       "minecraft:cold_ocean": "2022-05-13 23:12:28 +0000",
