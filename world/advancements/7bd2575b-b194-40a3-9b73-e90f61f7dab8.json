@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2022-12-28 08:55:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2021-12-03 18:37:31 +0000"
@@ -904,12 +910,15 @@
       "minecraft:pillager": "2021-09-22 14:24:15 +0000",
       "minecraft:blaze": "2021-11-12 17:54:25 +0000",
       "minecraft:skeleton": "2021-09-19 16:40:59 +0000",
+      "minecraft:ravager": "2022-12-28 10:16:30 +0000",
       "minecraft:ghast": "2022-12-17 16:21:13 +0000",
       "minecraft:guardian": "2022-12-17 16:26:05 +0000",
+      "minecraft:vindicator": "2022-12-28 08:59:48 +0000",
       "minecraft:magma_cube": "2021-09-21 04:56:44 +0000",
       "minecraft:spider": "2021-09-19 18:43:31 +0000",
       "minecraft:creeper": "2021-09-20 07:04:42 +0000",
       "minecraft:wither": "2021-12-03 20:10:50 +0000",
+      "minecraft:evoker": "2022-12-28 08:59:54 +0000",
       "minecraft:phantom": "2021-09-23 17:33:10 +0000",
       "minecraft:zombified_piglin": "2022-12-21 18:11:16 +0000",
       "minecraft:witch": "2021-11-02 18:23:43 +0000",
@@ -920,6 +929,7 @@
       "minecraft:silverfish": "2021-09-19 17:18:04 +0000",
       "minecraft:enderman": "2021-09-21 05:20:20 +0000",
       "minecraft:endermite": "2022-12-17 16:20:11 +0000",
+      "minecraft:vex": "2022-12-28 10:28:40 +0000",
       "minecraft:zombie": "2021-09-19 15:44:55 +0000",
       "minecraft:drowned": "2022-12-17 21:33:36 +0000",
       "minecraft:zombie_villager": "2021-09-19 17:46:31 +0000"
@@ -1685,6 +1695,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2021-09-19 15:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2022-12-28 09:14:51 +0000"
     },
     "done": true
   },
@@ -3914,6 +3930,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2022-12-15 16:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2022-12-28 07:48:35 +0000"
     },
     "done": true
   },
