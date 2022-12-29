@@ -3024,6 +3024,7 @@
       "minecraft:creeper": "2022-11-19 18:40:30 +0000",
       "minecraft:wither": "2022-12-04 12:50:12 +0000",
       "minecraft:slime": "2022-11-19 21:54:49 +0000",
+      "minecraft:evoker": "2022-12-28 16:41:53 +0000",
       "minecraft:phantom": "2022-11-22 21:37:48 +0000",
       "minecraft:zombified_piglin": "2022-11-28 06:16:04 +0000",
       "minecraft:witch": "2022-11-26 04:04:26 +0000",
@@ -3525,6 +3526,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2022-11-19 16:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2022-12-28 16:48:25 +0000"
     },
     "done": true
   },
